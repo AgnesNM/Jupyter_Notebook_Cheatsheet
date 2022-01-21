@@ -4,10 +4,4 @@ I want to create a Jupyter Notebook Guide that can help people solve the challen
 
 I would like this to be an open document where everyone can contribute, so feel free.
 
-## Usual Way of Accessing Jupyter Notebooks
 
-* Access ‘Anaconda Navigator’
-* Find the ‘Jupyter’ icon
-* Click ‘launch’
-
-![Anaconda Navigator](/path/to/img.jpg)
